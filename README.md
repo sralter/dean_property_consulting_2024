@@ -11,5 +11,6 @@ Histogram of sale prices (USD) below $10,000,000.
 
 ## Maps
 Zipcodes of Brooklyn.
-[zip_code_bk.pdf](https://github.com/sralter/dean_property_consulting_2024/files/15012880/zip_code_bk.pdf)
+![zip_code_bk](https://github.com/sralter/dean_property_consulting_2024/assets/25013680/d7d68712-f479-47cf-90ad-d8e72824445e)
+
 
